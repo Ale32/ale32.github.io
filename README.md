@@ -1,4 +1,2 @@
-# ale32.github.io
-Source code of my site.
-
-Created with Jekyll.
+# Alessio Paoletti's blog
+Source code for https://ale32.github.io/, built with Jekyll.
