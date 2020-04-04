@@ -30,7 +30,8 @@ linkedin_username: alepaoletti32
 twitter_username: alessio_32
 
 # Build settings
-theme: minima
+# Moved to regular theme
+# theme: minima
 plugins:
   - jekyll-feed
 
