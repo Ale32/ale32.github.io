@@ -1,9 +1,11 @@
 ---
-layout: post
-title: Physically Based Shading in three.js
-permalink: /portfolio/pbs_threejs
-date:   2020-04-05 11:00:00 +0100
-category: portfolio
+layout:     portfolio-post
+title:      Physically Based Shading in three.js
+subtitle:   A glsl-es physical shader that works on web browser.
+permalink:  /portfolio/pbs_threejs
+date:       2020-04-05 11:00:00 +0100
+category:   portfolio
+thumbnail:  /images/me.jpg
 ---
 
 This is the work I’ve done as a thesis for my graduation in **Virtual Reality Programming and 3D Graphics**.

@@ -1,7 +1,8 @@
 ---
-layout:     post
+layout:     portfolio-post
 title:      Recursive Raytracer in C++
-permalink:  portfolio/raytracer
+subtitle:   A C++ renderer that implements a raytracer for educational purposes.
+permalink:  /portfolio/raytracer
 date:       2020-04-04 11:00:00 +0100
 category:   portfolio
 ---
