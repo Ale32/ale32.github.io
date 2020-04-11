@@ -2,6 +2,18 @@
 layout: default
 ---
 
+<style>
+    .column { float: left; }
+    .left   { width: 70%; }
+    .right  { width: 30%; }
+
+    .row:after {
+        content: "";
+        display: table;
+        clear: both;
+    }
+</style>
+
 <div class="home">
   {%- if page.title -%}
     <h1 class="page-heading">{{ page.title }}</h1>
@@ -11,23 +23,34 @@ layout: default
 
   {%- if site.posts.size > 0 -%}
     <h2 class="post-list-heading">{{ page.list_title }}</h2>
+
     <ul class="post-list">
       {%- for post in site.posts -%}
       {%- if post.category == "portfolio" -%}
-      <li>
-        <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </h3>
-        <span class="post-meta">{{ post.subtitle }}</span>
-        {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
+        <li>
+        <div class="row">
+            <div class="column left">
+                <h3>
+                <a class="post-link" href="{{ post.url | relative_url }}">
+                    {{ post.title | escape }}
+                </a>
+                </h3>
+                <span class="post-meta">{{ post.subtitle }}</span>
+                    
+                {%- if site.show_excerpts -%}
+                    {{ post.excerpt }}
+                {%- endif -%}
+            </div>
+
+            <div class="column right">
+                {%- if post.thumbnail -%}
+                <img src="{{ post.thumbnail }}" height="64">
+                {%- endif -%}
+            </div>
+        </div>
+        </li>
         {%- endif -%}
-      </li>
-      <!-- <img src="{{ post.thumbnail }}" width="128"> -->
-      {%- endif -%}
-      {%- endfor -%}
+        {%- endfor -%}
     </ul>
 
     <p class="rss-subscribe">subscribe <a href="{{ "/portfolio/feed.xml" | relative_url }}">via RSS</a></p>
