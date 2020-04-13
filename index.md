@@ -1,3 +1,5 @@
 ---
 layout: page
 ---
+
+{%- include about.html -%}
