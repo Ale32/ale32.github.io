@@ -2,8 +2,8 @@
 layout:     portfolio-post
 title:      Physically Based Shading in three.js
 subtitle:   A glsl-es physical shader that works on web browser.
-permalink:  /portfolio/pbs_threejs
-date:       2020-04-05 11:00:00 +0100
+permalink:  /portfolio/graphics_and_rendering
+date:       2020-01-05 11:00:00 +0100
 category:   portfolio
 thumbnail:  /images/me.jpg
 ---
