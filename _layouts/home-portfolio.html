@@ -44,7 +44,7 @@ layout: default
 
             <div class="column right">
                 {%- if post.thumbnail -%}
-                <img src="{{ post.thumbnail }}" height="64">
+                <a class="post-link" href="{{ post.url | relative_url }}"><img src="{{ post.thumbnail }}" style="object-fit: cover; width: 100%; height: 128px;"></a>
                 {%- endif -%}
             </div>
         </div>
