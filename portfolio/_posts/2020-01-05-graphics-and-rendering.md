@@ -5,7 +5,7 @@ subtitle:   A glsl-es physical shader that works on web browser.
 permalink:  /portfolio/graphics_and_rendering
 date:       2020-01-05 11:00:00 +0100
 category:   portfolio
-thumbnail:  /images/me.jpg
+thumbnail:  /images/portfolio/pbs.png
 ---
 
 This is the work I’ve done as a thesis for my graduation in **Virtual Reality Programming and 3D Graphics**.
@@ -16,4 +16,4 @@ The goal of this was to study shading models from SIGGRAPH notes (most of them [
 
 Here is a video showing the application running on Chrome: [Physically Based Shading in Three.js](https://www.youtube.com/watch?v=eIMQb5TRfQg):
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eIMQb5TRfQg" frameborder="0" allow="encrypted-media; picture-in-picture" allowfullscreen></iframe>
+<iframe width="720" height="450" src="https://www.youtube.com/embed/eIMQb5TRfQg" frameborder="0" allow="encrypted-media; picture-in-picture" allowfullscreen></iframe>

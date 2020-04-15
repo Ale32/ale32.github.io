@@ -5,6 +5,7 @@ subtitle:   A C++ renderer that implements a raytracer for educational purposes.
 permalink:  /portfolio/raytracer
 date:       2020-01-04 11:00:00 +0100
 category:   portfolio
+thumbnail: /images/portfolio/raytracer_render.png
 ---
 
 Here is a classic.
