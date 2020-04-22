@@ -20,9 +20,9 @@ title: Alessio Paoletti
 
 author: Alessio Paoletti
 email: alessiopaoletti32@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
+description: >-
   Software Developer and Graphics Programmer.
-  Enthusiast about real time technologies, especially in rendering techniques.
+  Enthusiast about real time technologies and rendering techniques.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
