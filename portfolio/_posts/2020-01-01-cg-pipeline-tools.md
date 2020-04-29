@@ -12,7 +12,7 @@ thumbnail:  /images/portfolio/python_cg_tools.jpg
 
 I spent two years in London at the [MPC - Moving Picture Company]("https://www.mpcfilm.com/"), from September 2017 to September 2019.
 
-I've been part of the making of *The Lion King* movie as a software developer for the *layout* department.
+I've been part of the making of [The Lion King](https://www.imdb.com/title/tt6105098/) movie as a software developer for the *layout* department.
 In a few words, their job is to frame a shot by working on the camera and on the characters' position and transitions from shot to shot through the entire sequence.
 
 My role was to support the team by writing new tools to improve, automate, or simplify the team's workflow. I've done this working closely with the *team leads* and the *HoD* (Head of Department) to improve their pipeline.
@@ -23,7 +23,7 @@ In summary, I've done:
 - research on finding solutions for doing *layout* in real time, mainly experimenting with [Pixar USD (Universal Scene Description)](https://graphics.pixar.com/usd/docs/index.html) and **Unreal Engine** for rendering.
 - standalone tools using python and pyQt/pySide for doing bulk operations on a large amount of assets (for instance: loading props and characters in scenes, applying modification to them and release it automatically in the studio's content)
 
-Some of my tools were also used on other movies: [Dumbo](https://movies.disney.com/dumbo-2019), [Pokémon - Detective Pikachu](https://www.imdb.com/title/tt5884052/), [Maleficent: Mistress of Evil](https://www.imdb.com/title/tt4777008/).
+Some of my tools were also used on other movies: [Dumbo](https://www.imdb.com/title/tt3861390/), [Pokémon - Detective Pikachu](https://www.imdb.com/title/tt5884052/), [Maleficent: Mistress of Evil](https://www.imdb.com/title/tt4777008/).
 
 <br>
 
