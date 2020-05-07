@@ -23,3 +23,9 @@ Check out my job experiences and education in the [about me]({{ "about" | relati
 #### Social
 
 <div>{%- include social.html -%}</div>
+
+
+<div id='canvas-holder' style="position:relative; width: 100%;"></div>
+
+<script src="/js/lib/three.min.js"></script>
+<script src="/js/testScene.js"></script>
