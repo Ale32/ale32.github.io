@@ -6,6 +6,7 @@ permalink:  /portfolio/graphics_and_rendering
 date:       2020-01-05 11:00:00 +0100
 category:   portfolio
 thumbnail:  /images/portfolio/pbs.png
+comments:   false
 ---
 
 ### Physically Based Shading in three.js

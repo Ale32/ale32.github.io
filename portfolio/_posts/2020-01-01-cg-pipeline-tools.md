@@ -6,6 +6,7 @@ permalink:  /portfolio/pipeline_development
 date:       2020-01-01 11:00:00 +0100
 category:   portfolio
 thumbnail:  /images/portfolio/python_cg_tools.jpg
+comments:   false
 ---
 
 ### Working at MPC - Moving Picture Company

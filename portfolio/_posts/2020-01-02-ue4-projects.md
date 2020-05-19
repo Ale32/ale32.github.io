@@ -6,6 +6,7 @@ permalink:  /portfolio/unrealengine_projects
 date:       2020-01-02 11:00:00 +0100
 category:   portfolio
 thumbnail:  /images/portfolio/unreal_engine.jpg
+comments:   false
 ---
 
 Currently, at [ZuruTech Italy](https://zuru.tech/), I'm diving into the **Unreal Engine rendering code** to develop new graphics features and to do research for improving the quality and the performance of the studio's application.
