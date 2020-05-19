@@ -2,7 +2,8 @@
 layout:     post
 title:      "Rendering in Unreal Engine 4"
 date:       2020-05-19 08:00:00 +0100
-category:   post 
+category:   post
+comments:   true
 ---
 
 Hey folks!

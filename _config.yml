@@ -31,6 +31,12 @@ github_username:  ale32
 linkedin_username: alepaoletti32
 twitter_username: alessio_32
 
+# Disqus Comments
+disqus:
+    # Leave shortname blank to disable comments site-wide.
+    # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
+    shortname: alessiopaoletti32
+
 # Build settings
 # Moved to regular theme
 # theme: minima
