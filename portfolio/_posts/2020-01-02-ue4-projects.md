@@ -11,7 +11,7 @@ comments:   false
 
 Currently, at [ZuruTech Italy](https://zuru.tech/), I'm diving into the **Unreal Engine rendering code** to develop new graphics features and to do research for improving the quality and the performance of the studio's application.
 
-You'll see some articles in the [Zuru Tech Blog](https://blog.zuru.tech/) about what we do to the renderer to better match our needs: here is the first, [Real time tendering and Unreal Engine 4](https://blog.zuru.tech/graphics/2020/04/23/renderinginue4), where I discuss a high-level overview of the rendering process in the engine.
+You'll see some articles in the [Zuru Tech Blog](https://blog.zuru.tech/) about what we do to the renderer to better match our needs: here is the first, [Real time rendering and Unreal Engine 4](https://blog.zuru.tech/graphics/2020/04/23/renderinginue4), where I discuss a high-level overview of the rendering process in the engine.
 
 During my experience at [Rainbow CGI](https://www.rbw-cgi.it/en/home/), after the initial pipeline developer role, I've expressed interest in real time technologies and so I've started - and ended up doing for the next 2 years - working with **Unreal Engine 4**. I've developed several real time applications, mainly VR experiences.
 
